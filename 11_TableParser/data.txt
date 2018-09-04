@@ -1,0 +1,7 @@
+﻿1 2	3
+a "bcd ef" 'x y'
+"a 'b' 'c' d" '"1" "2" "3"'
+a"b c d e"f
+abc "def g h
+"a \"c\""
+"\\" b
